@@ -1,0 +1,2 @@
+# practice_remix
+Remixの機能について学習するレポジトリ
